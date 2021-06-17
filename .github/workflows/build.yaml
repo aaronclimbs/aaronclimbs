@@ -1,0 +1,49 @@
+# Name of workflow
+name: Build README
+
+# Run workflow at 12:01 on Tuesday, Thursday, Saturday
+on:
+  schedule:
+    - cron: '1 12 * * 2, 4, 6'
+  # Run workflow on pushes to main branch
+  push:
+    branches:
+      - main
+
+# Steps to carry out on run
+jobs:
+  build:
+    # Create an ubuntu virtual machine
+    runs-on: ubuntu-latest
+
+    # Checkout repo code
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v2
+    
+    # Install node
+    - name: Use NodeJS
+      uses: actions/setup-node@v1
+      with:
+        node-version: 10.16
+    - run: npm install
+    - run: npm run build --if-present
+    - run: npm test
+      env:
+        CI: true
+
+    # Run script "updateREADME.js"
+    - name: Update README
+      run: |-
+        node updateREADME.js
+        cat README.md
+
+    # Commit changes
+    - name: Commit and push if changed
+      run: |-
+        git diff
+        git config --global user.email "readme-bot@example.com"
+        git config --global user.name "README-bot"
+        git add -A
+        git commit -m "Updated articles" || exit 0
+        git push
