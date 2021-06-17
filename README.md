@@ -2,7 +2,7 @@
 
 ## About Me:
 
-I'm Aaron Keisler, a self-taught web developer and legal technology advocate and occasional mountain climber.
+I'm Aaron Keisler, a self-taught web developer, legal technology advocate and occasional mountain climber.
 
 I like to solve problems and figure out why things work the way they do. Constant user of 'inspect element'.
 
