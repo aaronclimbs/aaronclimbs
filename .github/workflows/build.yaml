@@ -36,6 +36,7 @@ jobs:
     # Run script "updateREADME.js"
     - name: Update README
       run: |-
+        npm install
         node .
         cat README.md
 
