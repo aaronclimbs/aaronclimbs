@@ -26,6 +26,8 @@ const readWriteAsync = () => {
         acc += `\n - [${val.title}](${val.url})`;
         return acc;
       }, "");
+      
+      articles += "\n"
 
       // Update README using fs
       fs.readFile("README.md", "utf8", (err, data) => {
