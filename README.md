@@ -14,6 +14,8 @@ I like to solve problems and figure out why things work the way they do. Constan
 
 ## My recent writing:
 
+ - [This is a test post](https://dev.to/aaronclimbs/this-is-a-test-post-1gih)
+
 ## Projects:
 
 ### Greenpoint
