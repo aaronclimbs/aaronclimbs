@@ -22,7 +22,7 @@ const readWriteAsync = () => {
       body = body.slice(0, 4);
 
       // Create string of markdown to be insterted
-      const articles = body.reduce((acc, val) => {
+      let articles = body.reduce((acc, val) => {
         acc += `\n - [${val.title}](${val.url})`;
         return acc;
       }, "");
