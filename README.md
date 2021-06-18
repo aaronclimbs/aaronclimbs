@@ -7,6 +7,8 @@ I like to solve problems and figure out why things work the way they do. Constan
 ![Aaron's GitHub stats](https://github-readme-stats-aaronclimbs.vercel.app/api?username=aaronclimbs&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats-aaronclimbs.vercel.app/api/top-langs/?username=aaronclimbs&layout=compact)
 
+[![Build README](https://github.com/aaronclimbs/aaronclimbs/actions/workflows/build.yaml/badge.svg)](https://github.com/aaronclimbs/aaronclimbs/actions/workflows/build.yaml)
+
 ## My recent writing:
 
 
