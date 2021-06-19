@@ -2,12 +2,12 @@
 
 I'm Aaron Keisler, a self-taught web developer, legal technology advocate and occasional mountain climber.
 
-I like to solve problems and figure out why things work the way they do. Constant user of 'inspect element'.
+I like find technical solutions to problems and learn why things work the way they do. Constant user of 'inspect element' and the 'network' and 'debug' panels of a browser's Developer Tools.
 
 ![Aaron's GitHub stats](https://github-readme-stats-aaronclimbs.vercel.app/api?username=aaronclimbs&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats-aaronclimbs.vercel.app/api/top-langs/?username=aaronclimbs&layout=compact)
 
-## Recent Coding
+## Recent Work (7 Days)
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=aaronclimbs)
 
 [![Build README](https://github.com/aaronclimbs/aaronclimbs/actions/workflows/build.yaml/badge.svg)](https://github.com/aaronclimbs/aaronclimbs/actions/workflows/build.yaml)
