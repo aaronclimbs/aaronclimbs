@@ -21,7 +21,7 @@ async function main() {
   }, "");
 
   const readme = readmeTemplate.replace(
-    /(?<=recent writing:\n)[\s\S]*(?=## Projects)/gim,
+    /(?<=recent writing\n)[\s\S]*(?=## Skills)/gim,
     `${articles}\n\n`
   );
 
