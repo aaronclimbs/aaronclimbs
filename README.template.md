@@ -5,13 +5,13 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/aaronkeisler)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/akeisler/)
 
-# Hey! 👋👋
-
 I'm Aaron Keisler, a self-taught web developer, legal technology advocate and occasional mountain climber.
 
 I like find technical solutions to problems and learn why things work the way they do. Constant user of 'inspect element' and the 'network' and 'debug' panels of a browser's Developer Tools.
 
-![Aaron's GitHub stats](https://github-readme-stats-aaronclimbs.vercel.app/api?username=aaronclimbs&show_icons=true&theme=gruvbox)
+To learn more about me, please visit my [dev.to](https://dev.to/aaronclimbs) blog or my [portfolio](https://keisler.dev).
+
+![Aaron's GitHub stats](https://github-readme-stats-aaronclimbs.vercel.app/api?username=aaronclimbs&show_icons=true)
 ![Top Langs](https://github-readme-stats-aaronclimbs.vercel.app/api/top-langs/?username=aaronclimbs&layout=compact)
 
 ## Recent Work (7 Days)
@@ -40,27 +40,34 @@ I like find technical solutions to problems and learn why things work the way th
 
 ### Greenpoint
 
-- USES: React, Redux, PassportJS, JWT, ExpressJS, MongoDB
-- STORY: Encourage users through gamification to be more environmentally
-  conscious in their everyday actions.
-- REPO: https://www.github.com/aaronclimbs/greenpoint
-- LIVE: https://glacial-peak-greenpoint.herokuapp.com
+- React, Redux, PassportJS, JWT, ExpressJS, MongoDB
+- Encourage users through gamification to be more environmentally conscious in their everyday actions.
+
+[REPO](https://www.github.com/aaronclimbs/greenpoint) | [LIVE](https://glacial-peak-greenpoint.herokuapp.com)
+
+![Greenpoint Homepage](./assets/GreenpointHomepage.png)
+
+![Greenpoint FAQ](./assets/GreenpointFAQ.png)
 
 ### Flexspace
 
-- USES: EJS, PassportJS, ExpressJS, SQL
-- STORY: Allow users to rent out commercial spaces and manage their
-  rentals.
-- REPO: https://www.github.com/aaronclimbs/flexspace
-- LIVE: https://gwbootcampflexspace.herokuapp.com
+- Node.js, EJS, PassportJS, ExpressJS, SQL, Sequelize
+- Allow users to rent out commercial spaces and manage their rentals.
+
+[REPO](https://www.github.com/aaronclimbs/flexspace) | [LIVE](https://gwbootcampflexspace.herokuapp.com)
+
+![Flexspace Cover](./assets/FlexspaceCover.png)
+
+![Flexspace Cover](./assets/FlexspaceSignup.png)
 
 ### SYP [Select Your Podcast]
 
-- USES: HTML, CSS, Javascript, MaterializeCSS
-- STORY: Users can run searches in the Google Books API and the
-  ListenNotes API and view those results in a VanillaJS front-end.
-- REPO: https://www.github.com/aaronclimbs/stunning-potato
-- LIVE: https://aaronclimbs.github.io/stunning-potato/index.html
+- HTML, CSS, Javascript, MaterializeCSS
+- Users can run searches in the Google Books API and the ListenNotes API and view those results in a VanillaJS front-end.
+
+[REPO](https://www.github.com/aaronclimbs/stunning-potato) | [LIVE](https://aaronclimbs.github.io/stunning-potato/index.html)
+
+![SYP Cover](./assets/SYPHomepage.png)
 
 ## Acknowledgements
 

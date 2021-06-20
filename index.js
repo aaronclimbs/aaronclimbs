@@ -13,9 +13,11 @@ async function main() {
     await fs.readFile(path.join(process.cwd(), "./README.template.md"))
   ).toString("utf-8");
 
-  const devJson = await (await fetch(url)).json();
+  let devJson = await (await fetch(url)).json();
 
-  let articles = devJson.reduce((acc, val) => {
+  lastFourArticles = devJson.slice(0, 4);
+
+  let articles = lastFourArticles.reduce((acc, val) => {
     acc += `\n - [${val.title}](${val.url})`;
     return acc;
   }, "");
