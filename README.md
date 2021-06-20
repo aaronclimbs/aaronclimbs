@@ -1,7 +1,7 @@
 [![Aaron's GitHub Banner](./assets/GitHubHeader.png)](https://keisler.dev)
 
-![Visits Badge](https://badges.pufler.dev/visits/aaronclimbs/aaronclimbs)]
-![Updated Badge](https://badges.pufler.dev/updated/aaronclimbs/aaronclimbs)]
+![Visits Badge](https://badges.pufler.dev/visits/aaronclimbs/aaronclimbs)
+![Updated Badge](https://badges.pufler.dev/updated/aaronclimbs/aaronclimbs)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/aaronkeisler)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/akeisler/)
 
