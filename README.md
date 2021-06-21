@@ -12,6 +12,7 @@ I like find technical solutions to problems and learn why things work the way th
 To learn more about me, please visit my [dev.to](https://dev.to/aaronclimbs) blog or my [portfolio](https://keisler.dev).
 
 ![Aaron's GitHub stats](https://github-readme-stats-aaronclimbs.vercel.app/api?username=aaronclimbs&show_icons=true)
+
 ![Top Langs](https://github-readme-stats-aaronclimbs.vercel.app/api/top-langs/?username=aaronclimbs&layout=compact)
 
 ## Recent Work (7 Days)
