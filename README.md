@@ -1,5 +1,3 @@
-[![Aaron's GitHub Banner](./assets/GitHubHeader.png)](https://keisler.dev)
-
 ![Visits Badge](https://badges.pufler.dev/visits/aaronclimbs/aaronclimbs)
 ![Updated Badge](https://badges.pufler.dev/updated/aaronclimbs/aaronclimbs)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/aaronkeisler)
@@ -7,9 +5,9 @@
 
 I'm Aaron Keisler, a self-taught web developer, legal technology advocate and occasional mountain climber.
 
-I like find technical solutions to problems and learn why things work the way they do. Constant user of 'inspect element' and the 'network' and 'debug' panels of every browser's Developer Tools.
+I love to find technical solutions to problems and learn why things work the way they do. Constant user of 'inspect element' and the 'network' and 'debug' panels of every browser's dev tools.
 
-To learn more about me, please visit my [dev.to](https://dev.to/aaronclimbs) blog or my [portfolio](https://keisler.dev).
+To learn more about me, check out my [dev.to](https://dev.to/aaronclimbs) blog or my [portfolio](https://keisler.dev). Also, please connect with me on [LinkedIn](https://linkedin.com/in/akeisler)!
 
 ![Aaron's GitHub stats](https://github-readme-stats-aaronclimbs.vercel.app/api?username=aaronclimbs&show_icons=true)
 
