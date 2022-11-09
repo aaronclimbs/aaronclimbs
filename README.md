@@ -1,9 +1,7 @@
-![Visits Badge](https://badges.pufler.dev/visits/aaronclimbs/aaronclimbs)
-![Updated Badge](https://badges.pufler.dev/updated/aaronclimbs/aaronclimbs)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/aaronkeisler)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/akeisler/)
 
-I'm Aaron Keisler, a self-taught web developer, legal technology advocate and occasional mountain climber.
+I'm Aaron Keisler, a self-taught software engineer, legal technology advocate and occasional mountain climber.
 
 I love to find technical solutions to problems and learn why things work the way they do. Constant user of 'inspect element' and the 'network' and 'debug' panels of every browser's dev tools.
 
