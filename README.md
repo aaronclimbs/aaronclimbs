@@ -3,7 +3,7 @@
 
 I'm Aaron Keisler, a self-taught software engineer, legal technology advocate and occasional mountain climber.
 
-I love to find technical solutions to problems and learn why things work the way they do. Constant user of 'inspect element' and the 'network' and 'debug' panels of every browser's dev tools.
+I love to find technical solutions to problems and understand why things work (or don't work) the way they do. Frequent user of `inspect element` and the `network` and `source` panels of every browser's dev tools.
 
 To learn more about me, check out my [dev.to](https://dev.to/aaronclimbs) blog or my [portfolio](https://keisler.dev). Also, please connect with me on [LinkedIn](https://linkedin.com/in/akeisler)!
 
